@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(54, 56, 77);
+}
+.main{
+    width: 790px;
+    height: 544px;
+    margin-left: 320px;
+    margin-top: 130px;
+    background-color: #fff;
+    border-radius: 30px;
+    box-shadow: -1px 5px 20px 20px rgb(47, 50, 69);
+}
+b{
+    font-size: 45px;
+    margin-left: 56px;
+}
+.text1{
+    margin-left: 56px;
+    margin-top: 30px
+}
+input{
+    margin-left: 67px;
+}
+p{
+    margin-left: 90px;
+    margin-top: -30px;
+    padding: 10px;
+}
+strong{
+    margin-left: 55px;
+}
+.mail-up{
+    margin-left: 250px;
+    margin-top: -25px;
+    font-size: small;
+    color: rgb(255, 94, 91);
+}
+.mail{
+    height: 46px;
+    width: 309px;
+    margin-left: 53px;
+    text-align: center;
+    border-radius: 8px;
+    border: 1px solid ;
+}
+button{
+    width: 309px;
+    height: 46px;
+    margin-left: 53px;
+    margin-top: 10px;
+    border-radius: 8px;
+    border: 1px solid;
+    background-color: rgb(35, 39, 66);
+    color: #fff;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(53, 59, 100);
+}
+.bigone{
+    margin-left: 430px;
+    margin-top: -446px;
+    border-radius: 15px;
+}
+.img{
+    margin-left: 60px;
+    width: 20px;
+}
